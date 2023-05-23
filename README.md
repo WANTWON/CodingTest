@@ -6,11 +6,6 @@
 
 - 잔디 채우기 & 일주일에 [BOJ]or[PGS] 3문제씩 풀기
 
-|  월   |   화   |   수   |   목   |   금   | 토  |   일   |
-| :---: | :----: | :----: | :----: | :----: | :-: | :-: |
-|  ☕️   |  ☕️   |  ☕️   |  ☕️   |  ☕️   |  🎲  | 🎲  |
-| Coding | Coding | Coding | Coding | Coding |  -  |  -  |
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wwwwhy)](https://solved.ac/wwwwhy/)
 
 
