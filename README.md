@@ -2,17 +2,19 @@
 
 > 코딩 테스트 준비를 위한 풀이 모음
 
-- 잔디 채우기 겸
+- 기존에 풀이들을 Notion에 보관해놔서 이동중...
 
-- 일주일에 [BOJ]or[PGS] 3문제씩
+- 잔디 채우기 & 일주일에 [BOJ]or[PGS] 3문제씩 풀기
 
 |  월   |   화   |   수   |   목   |   금   | 토  |   일   |
 | :---: | :----: | :----: | :----: | :----: | :-: | :-: |
 |  ☕️   |  ☕️   |  ☕️   |  ☕️   |  ☕️   |  🎲  | 🎲  |
 | Coding | Coding | Coding | Coding | Coding |  -  |  -  |
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wwwwhy)](https://solved.ac/wwwwhy/)
 
-## commit 설명
+
+## commit
 - commit 메세지: [문제 출처(플랫폼)] 문제이름 / 난이도 / 걸린시간 
 - description: 문제 주소 (option)
 - 플랫폼 구분: 
