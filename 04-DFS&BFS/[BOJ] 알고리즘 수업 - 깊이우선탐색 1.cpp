@@ -3,56 +3,35 @@
 #include <iostream>
 #include <algorithm>
 #include <vector>
-#include <queue>
+
+#define MAX 15
 
 using namespace std;
 
+bool visited[200000];
+int Count[200000];
+vector<int> Graph[200000];
+int first = 1;
 
-vector<vector<int>> Graph;
-vector<int> isVisited;
-int step = 0;
 
-void dfs(int First, int level)
+void dfs(int First)
 {
-	if (isVisited[First] > 0)
+	if (visited[First])
 		return;
 
-	isVisited[First] = level;
+	visited[First] = true;
+	Count[First] = first;
+	first++;
 
+	//오름차순 정렬!!!
 	sort(Graph[First].begin(), Graph[First].end());
-
 	for (auto iter : Graph[First])
 	{
-		dfs(iter, level + 1);
-	}
-}
-
-void bfs(int First)
-{
-	queue<int> q;
-	q.push(First);
-
-	step++;
-	isVisited[First] = step;
-
-	while (!q.empty())
-	{
-		int Inq = q.front();
-
-		q.pop();
-		for (auto iter : Graph[Inq])
-		{
-			if (isVisited[iter] == 0)
-			{
-				step++;
-				isVisited[iter] = step;
-				q.push(iter);
-			}
-		}
+		dfs(iter);
 	}
 
-}
 
+}
 
 int main(void)
 {
@@ -60,27 +39,23 @@ int main(void)
 	cin.tie(NULL);
 	cout.tie(NULL);
 
-	int n, m, First;
+	int n, m , First;
 	cin >> n >> m >> First;
-
-	Graph.resize(n + 1);
-	isVisited.resize(n + 1);
 
 	for (int i = 0; i < m; i++)
 	{
 		int a, b;
 		cin >> a >> b;
-
 		Graph[a].push_back(b);
 		Graph[b].push_back(a);
 	}
-	for (int i = 1; i <= n; i++)
-		sort(Graph[i].begin(), Graph[i].end());
 
-	bfs(First);
+	dfs(First);
 
 	for (int i = 1; i <= n; i++)
-		cout << isVisited[i] << "\n";
+	{
+		cout << Count[i] << "\n";
+	}
 
 	return 0;
 }
