@@ -7,6 +7,7 @@
 
 using namespace std;
 
+
 vector<vector<int>> Graph;
 vector<int> isVisited;
 int step = 0;
