@@ -2,7 +2,7 @@
 
 > 코딩 테스트 준비를 위한 풀이 모음
 
-- 잔디 채우기 & 일주일에 [BOJ]or[PGS] 3문제씩 풀기
+- 하루에 3문제씩 풀기 목표
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wwwwhy)](https://solved.ac/wwwwhy/)
 
