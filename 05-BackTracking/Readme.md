@@ -2,7 +2,7 @@
 
 
 ### 진행도
-![100%](https://progress-bar.dev/13/?scale=100&title=progress&width=500&color=babaca&suffix=/100)
+![100%](https://progress-bar.dev/14/?scale=100&title=progress&width=500&color=babaca&suffix=/100)
 
 
 ### 풀은 문제들
@@ -20,5 +20,6 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 15664 | [N과 M (10)](https://www.acmicpc.net/problem/15664) | [정답 코드](https://github.com/WANTWON/CodingTest/blob/main/05-BackTracking/%5BBOJ%5D%20N%EA%B3%BC%20M%20(10).cpp) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 15665 | [N과 M (11)](https://www.acmicpc.net/problem/15665) | [정답 코드](https://github.com/WANTWON/CodingTest/blob/main/05-BackTracking/%5BBOJ%5D%20N%EA%B3%BC%20M%20(11).cpp) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 15666 | [N과 M (12)](https://www.acmicpc.net/problem/15666) | [정답 코드](https://github.com/WANTWON/CodingTest/blob/main/05-BackTracking/%5BBOJ%5D%20N%EA%B3%BC%20M%20(12).cpp) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 1182 | [부분 수열의 합](https://www.acmicpc.net/problem/1182) | [정답 코드](https://github.com/WANTWON/CodingTest/blob/main/05-BackTracking/%5BBOJ%5D%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4%EC%9D%98%20%ED%95%A9.cpp) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 9663 | [N-Queen](https://www.acmicpc.net/problem/9663) | [정답 코드](https://github.com/WANTWON/CodingTest/blob/main/05-BackTracking/%5BBOJ%5D%20N-Queen.cpp) |
 
