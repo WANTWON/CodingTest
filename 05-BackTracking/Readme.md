@@ -1,10 +1,5 @@
 # 백트래킹
 
-
-### 진행도
-![100%](https://progress-bar.dev/14/?scale=100&title=progress&width=500&color=babaca&suffix=/100)
-
-
 ### 풀은 문제들
 | 난이도 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: | :--: |
