@@ -21,7 +21,6 @@
  | [브루트포스](https://github.com/WANTWON/CodingTest/tree/main/07-BruteForce) | ![100%](https://progress-bar.dev/3/?scale=20&title=progress&width=500&color=babaca&suffix=/20) |
 | [수학](https://github.com/WANTWON/CodingTest/tree/main/08-Math) | ![100%](https://progress-bar.dev/4/?scale=20&title=progress&width=500&color=babaca&suffix=/20) |
 | [그리디] | ![100%](https://progress-bar.dev/0/?scale=20&title=progress&width=500&color=babaca&suffix=/20) |
- | [시뮬레이션] | ![100%](https://progress-bar.dev/0/?scale=20&title=progress&width=500&color=babaca&suffix=/20) |
 | [이분탐색] |![100%](https://progress-bar.dev/0/?scale=20&title=progress&width=500&color=babaca&suffix=/20) |
 | [투 포인터] |![100%](https://progress-bar.dev/0/?scale=20&title=progress&width=500&color=babaca&suffix=/20) |
  | [해시] | ![100%](https://progress-bar.dev/0/?scale=20&title=progress&width=500&color=babaca&suffix=/20) |
