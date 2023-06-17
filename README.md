@@ -20,21 +20,6 @@
  | [다이나믹 프로그래밍](workbook/0x10.md) | ![100%](https://progress-bar.dev/8/?scale=20&title=progress&width=500&color=babaca&suffix=/20) |
  | [브루트포스](https://github.com/WANTWON/CodingTest/tree/main/07-BruteForce) | ![100%](https://progress-bar.dev/3/?scale=20&title=progress&width=500&color=babaca&suffix=/20) |
 | [수학](https://github.com/WANTWON/CodingTest/tree/main/08-Math) | ![100%](https://progress-bar.dev/4/?scale=20&title=progress&width=500&color=babaca&suffix=/20) |
-| [그리디] | ![100%](https://progress-bar.dev/0/?scale=20&title=progress&width=500&color=babaca&suffix=/20) |
-| [이분탐색] |![100%](https://progress-bar.dev/0/?scale=20&title=progress&width=500&color=babaca&suffix=/20) |
-| [투 포인터] |![100%](https://progress-bar.dev/0/?scale=20&title=progress&width=500&color=babaca&suffix=/20) |
- | [해시] | ![100%](https://progress-bar.dev/0/?scale=20&title=progress&width=500&color=babaca&suffix=/20) |
-| [이진 검색 트리] | ![100%](https://progress-bar.dev/0/?scale=20&title=progress&width=500&color=babaca&suffix=/20) |
-| [우선순위 큐] | ![100%](https://progress-bar.dev/0/?scale=20&title=progress&width=500&color=babaca&suffix=/20) |
- | [그래프] | ![100%](https://progress-bar.dev/0/?scale=20&title=progress&width=500&color=babaca&suffix=/20) |
-| [트리] | ![100%](https://progress-bar.dev/0/?scale=20&title=progress&width=500&color=babaca&suffix=/20) |
- | [위상 정렬] | ![100%](https://progress-bar.dev/0/?scale=20&title=progress&width=500&color=babaca&suffix=/20) |
- | [최소 신장 트리] | ![100%](https://progress-bar.dev/0/?scale=20&title=progress&width=500&color=babaca&suffix=/20) |
- | [플로이드 알고리즘] |![100%](https://progress-bar.dev/0/?scale=20&title=progress&width=500&color=babaca&suffix=/20) |
- | [다익스트라 알고리즘] | ![100%](https://progress-bar.dev/0/?scale=20&title=progress&width=500&color=babaca&suffix=/20) |
- | [KMP] | ![100%](https://progress-bar.dev/0/?scale=20&title=progress&width=500&color=babaca&suffix=/20) |
- | [트라이] | ![100%](https://progress-bar.dev/0/?scale=20&title=progress&width=500&color=babaca&suffix=/20) |
- | [문자열 기초] | ![100%](https://progress-bar.dev/0/?scale=20&title=progress&width=500&color=babaca&suffix=/20) |
 
 
 <br></br>
