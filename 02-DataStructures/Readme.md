@@ -13,4 +13,4 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 14425 | [문자열 집합](https://www.acmicpc.net/problem/14425) | [정답 코드](https://github.com/WANTWON/CodingTest/blob/main/02-DataStructures/%5BBOJ%5D%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%A7%91%ED%95%A9.cpp) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 1874 | [스택 수열](https://www.acmicpc.net/problem/1874) | [정답 코드](https://github.com/WANTWON/CodingTest/blob/main/02-DataStructures/%5BBOJ%5D%20%EC%8A%A4%ED%83%9D%20%EC%88%98%EC%97%B4.cpp) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 2493 | [탑](https://www.acmicpc.net/problem/2493) | [정답 코드](https://github.com/WANTWON/CodingTest/blob/main/02-DataStructures/%5BBOJ%5D%20%ED%83%91.cpp) |
-
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 6189 | [옥상 정원 꾸미기](https://www.acmicpc.net/problem/6189) | [정답 코드](https://github.com/WANTWON/CodingTest/blob/main/02-DataStructures/%5BBOJ%5D%20%EC%98%A5%EC%83%81%20%EC%A0%95%EC%9B%90%20%EA%BE%B8%EB%AF%B8%EA%B8%B0.cpp) |
