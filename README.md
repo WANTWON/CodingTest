@@ -20,7 +20,7 @@
  | [브루트포스](https://github.com/WANTWON/CodingTest/tree/main/07-BruteForce) | ![100%](https://progress-bar.dev/3/?scale=20&title=progress&width=500&color=babaca&suffix=/20) |
 | [수학](https://github.com/WANTWON/CodingTest/tree/main/08-Math) | ![100%](https://progress-bar.dev/4/?scale=20&title=progress&width=500&color=babaca&suffix=/20) |
 | [이진탐색](https://github.com/WANTWON/CodingTest/tree/main/11-BinarySearch) | ![100%](https://progress-bar.dev/7/?scale=20&title=progress&width=500&color=babaca&suffix=/20) |
-| [우선순위큐](https://github.com/WANTWON/CodingTest/tree/main/12-Priority%20Queue) | ![100%](https://progress-bar.dev/8/?scale=20&title=progress&width=500&color=babaca&suffix=/8) |
+| [우선순위큐](https://github.com/WANTWON/CodingTest/tree/main/12-Priority%20Queue) | ![100%](https://progress-bar.dev/8/?scale=8&title=progress&width=500&color=babaca&suffix=/8) |
 
 
 
