@@ -12,7 +12,7 @@
  | :--: | :--: |
   | [구현](https://github.com/WANTWON/CodingTest/tree/main/01-Implementation) | ![100%](https://progress-bar.dev/6/?scale=20&title=progress&width=500&color=babaca&suffix=/20) |
  | [자료구조](https://github.com/WANTWON/CodingTest/tree/main/02-DataStructures) | ![100%](https://progress-bar.dev/11/?scale=20&title=progress&width=500&color=babaca&suffix=/20) |
- | [BFS & DFS](https://github.com/WANTWON/CodingTest/tree/main/04-DFS%26BFS) | ![100%](https://progress-bar.dev/19/?scale=32&title=progress&width=500&color=babaca&suffix=/32) |
+ | [BFS & DFS](https://github.com/WANTWON/CodingTest/tree/main/04-DFS%26BFS) | ![100%](https://progress-bar.dev/23/?scale=32&title=progress&width=500&color=babaca&suffix=/32) |
  | [재귀](https://github.com/WANTWON/CodingTest/tree/main/09-Recursion) | ![100%](https://progress-bar.dev/3/?scale=20&title=progress&width=500&color=babaca&suffix=/20) |
  | [백트래킹](https://github.com/WANTWON/CodingTest/tree/main/05-BackTracking) | ![100%](https://progress-bar.dev/14/?scale=20&title=progress&width=500&color=babaca&suffix=/20) |
  | [정렬](https://github.com/WANTWON/CodingTest/tree/main/03-Sorting) | ![100%](https://progress-bar.dev/9/?scale=20&title=progress&width=500&color=babaca&suffix=/20) |
